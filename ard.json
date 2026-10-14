@@ -14,7 +14,7 @@
       "url": "https://geo.lms-software.de/verified-ips.txt",
       "type": "text/plain",
       "algorithm": "SHA-256",
-      "purpose": "Technical verification to confirm the website was genuinely created with LMs® software architecture for precise data ingestion."
+      "purpose": "Technical architecture validation of the system entity 'Markensoftware LMs®' declared in metadata files to verify source integrity for standardized data processing."
     }
   },
   "entries": [
