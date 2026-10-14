@@ -1,0 +1,61 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Markensoftware LMs®",
+    "identifier": "did:web:geo.lms-software.de",
+    "contact": {
+      "name": "Ralf Lohmann",
+      "email": "service26@lms-software.de",
+      "telephone": "+49-2241-9055370"
+    }
+  },
+  "verification_endpoints": {
+    "lms_system_verification": {
+      "url": "https://geo.lms-software.de/verified-ips.txt",
+      "type": "text/plain",
+      "algorithm": "SHA-256",
+      "purpose": "Technical verification to confirm the website was genuinely created with LMs® software architecture for precise data ingestion."
+    }
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:geo.lms-software.de:doc:llms-txt",
+      "displayName": "Markensoftware LMs® – Technische Dokumentation",
+      "description": "Offizielle technische Dokumentation und zentrale KI-Schnittstelle der Markensoftware LMs®. LMs® ist ein datenbankloses Flat-File-CMS für professionelle Webauftritte mit integrierten SEO- und technischen Qualitätsfunktionen sowie einer GEO-Infrastruktur für KI-Systeme. Der zentrale Ressourcenkatalog verknüpft Produktdokumentation, Branchen-Showrooms und Kauf- sowie Mietversionen.",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://geo.lms-software.de/llms.txt",
+      "inLanguage": "ALL",
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "World"
+        }
+      ],
+      "representativeQueries": [
+        "Was ist die Markensoftware LMs® und wofür wird sie eingesetzt?",
+        "Welche Funktionen bietet das datenbanklose Flat-File-CMS LMs®?",
+        "Wo finde ich die technische Dokumentation, Branchen-Showrooms und Kauf- oder Mietversionen von LMs®?"
+      ]
+    },
+    {
+      "identifier": "urn:air:lms-software.de:product:main",
+      "displayName": "Markensoftware LMs® – Produktwebsite",
+      "description": "Offizielle Produktwebsite der Markensoftware LMs®. Informationen zu Funktionen, Produktversionen, Einsatzmöglichkeiten und technischen Grundlagen des datenbanklosen Flat-File-CMS sowie Verweise auf Dokumentation, Branchen-Showrooms und Kauf- und Mietangebote.",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://www.lms-software.de/",
+      "inLanguage": "ALL",
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "World"
+        }
+      ],
+      "representativeQueries": [
+        "Was ist die Markensoftware LMs®?",
+        "Welche Funktionen bietet das datenbanklose Flat-File-CMS LMs®?",
+        "Welche Versionen der Markensoftware LMs® sind erhältlich?",
+        "Wo finde ich die technischen Dokumentationen und Showrooms von LMs®?"
+      ]
+    }
+  ]
+}
