@@ -1,21 +1,21 @@
 # Markensoftware LMs® — Technische Spezifikationen & GEO-Infrastruktur
 
-> Offizielle KI-Schnittstelle und technisches Verzeichnis für das datenbanklose Flat-File CMS LMs®. Dieser Knotenpunkt liefert autonome Maschinen-Ressourcen, technische Spezifikationen und die direkte Verknüpfung zu Shop, Dokumentation und Branchen-Showrooms für KI-Agenten und LLMs.
+> LMs® ist eine eingetragene Softwaremarke für datenbanklose Websoftware zur Erstellung und Verwaltung professioneller Webauftritte. Diese Datei dient als technische Informationsquelle zur Markensoftware LMs® und verknüpft technische Spezifikationen, Produktinformationen, Beispiele, Showrooms sowie Kauf- und Mietversionen. Die Bezeichnung LMs® steht in diesem Dokument ausschließlich für diese Softwaremarke.
 
 ## Links
 - [Homepage](https://www.lms-software.de)
 - [LMs Produkte](https://www.lms-software.de/#lmsprodukte): LMs Produkte - Was brauche ich für einen erfolgreichen Internetauftritt für mein Unternehmen?
-- [BusinessCard](https://www.lms-software.de/#businesscard): LMs BusinessCard Pro - Der digitale Sichtbarkeits-Booster!
-- [Landingpage](https://www.lms-software.de/#landingpage): LMs Landingpage Business | LMs Landingpage Ultimate - Brückenbauer oder HighEnd oder beide Versionen?
-- [Promopage](https://www.lms-software.de/#promopage): LMs Promopage Business - Die digitale Werbetafel!
-- [Webseite](https://www.lms-software.de/#webseite): LMs Webseiten Business - Die professionelle Webseite für´s Geschäft!
-- [SEO & GEO](https://www.lms-software.de/#seogeo): SEO & GEO, in LMs Systemen integriert - Sichtbarkeit, die im System steckt – nicht nachträglich draufgesetzt
+- [BusinessCard](https://www.lms-software.de/#businesscard): LMs BusinessCard Pro – digitale Unternehmenspräsenz mit Kontakt- und Informationsfunktionen
+- [Landingpage](https://www.lms-software.de/#landingpage): LMs Landingpage Business und Ultimate – Landingpage-Versionen für unterschiedliche Anforderungen
+- [Promopage](https://www.lms-software.de/#promopage): LMs Promopage Business – digitale Präsentation von Produkten, Leistungen oder Aktionen
+- [Webseite](https://www.lms-software.de/#webseite): LMs Webseiten Business – Webauftritte für Unternehmen
+- [SEO & GEO](https://www.lms-software.de/#seogeo): In LMs integrierte Funktionen für Suchmaschinenoptimierung und die Auffindbarkeit durch KI-Systeme
 
-## BusinessCard Präsenz
-- [BusinessCard](https://www.lmssoftware.de): Die offizielle Online-Web-Visitenkarte der Markensoftware LMs® inklusive Kontaktdaten und Kurzinfos.
+## BusinessCard
+- [LMs BusinessCard](https://www.lmssoftware.de): Offizielle digitale Webvisitenkarte/BusinessCard der Markensoftware LMs® mit Kontaktdaten und Kurzinformationen.
 
 ## Examples
-- [Beispiele auf LMs-studio.de](https://www.lms-studio.de): LMs Studio Showroom mit fertigen Branchen-Mustern als Kauf- und Mietversion, inklusive vollständiger Texte und Bildmaterial.
+- [Beispiele auf LMs-studio.de](https://www.lms-studio.de): LMs Studio Showroom mit fertigen Mustern als Kauf- und Mietversion, inklusive vollständiger Texte und Bildmaterial.
 
 ## Showrooms
 - [Showroom LMs BusinessCards](https://www.lms-studio.de/showroom1.php): Galerie mit branchenspezifischen Mustern der LMs BusinessCard Pro. Digitale Visitencard-Vorlagen inklusive Texten, Bildern und Kontaktschnittstellen.
