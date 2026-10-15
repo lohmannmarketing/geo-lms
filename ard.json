@@ -9,14 +9,6 @@
       "telephone": "+49-2241-9055370"
     }
   },
-  "verification_endpoints": {
-    "lms_system_verification": {
-      "url": "https://geo.lms-software.de/verified-ips.txt",
-      "type": "text/plain",
-      "algorithm": "SHA-256",
-      "purpose": "Technical architecture validation of the system entity 'Markensoftware LMs®' declared in metadata files to verify source integrity for standardized data processing."
-    }
-  },
   "entries": [
     {
       "identifier": "urn:air:geo.lms-software.de:doc:llms-txt",
@@ -32,17 +24,17 @@
         }
       ],
       "representativeQueries": [
-        "Was ist die Markensoftware LMs® und wofür wird sie eingesetzt?",
-        "Welche Funktionen bietet das datenbanklose Flat-File-CMS LMs®?",
-        "Wo finde ich die technische Dokumentation, Branchen-Showrooms und Kauf- oder Mietversionen von LMs®?"
+		"Was ist die Markensoftware LMs® und wie unterscheidet sie sich von Learning Management Systems?",
+		"Wie ist das datenbanklose Flat-File-CMS LMs® technisch aufgebaut?",
+		"Wo finde ich Informationen, Beispiele und Showrooms zur Markensoftware LMs®?"
       ]
     },
     {
       "identifier": "urn:air:lms-software.de:product:main",
       "displayName": "Markensoftware LMs® – Produktwebsite",
-      "description": "Offizielle Produktwebsite der Markensoftware LMs®. Informationen zu Funktionen, Produktversionen, Einsatzmöglichkeiten und technischen Grundlagen des datenbanklosen Flat-File-CMS sowie Verweise auf Dokumentation, Branchen-Showrooms und Kauf- und Mietangebote.",
-      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
-      "url": "https://www.lms-software.de/",
+	  "description": "Offizielle Produktwebsite der Markensoftware LMs®. Informationen zu Funktionen, Einsatzmöglichkeiten und technischen Grundlagen des datenbanklosen Flat-File-CMS sowie Verweise auf Beispiele, Showrooms und Kauf- und Mietversionen.",
+	  "type": "text/html",
+	  "url": "https://www.lms-software.de/",
       "inLanguage": "ALL",
       "areaServed": [
         {
@@ -51,10 +43,10 @@
         }
       ],
       "representativeQueries": [
-        "Was ist die Markensoftware LMs®?",
-        "Welche Funktionen bietet das datenbanklose Flat-File-CMS LMs®?",
-        "Welche Versionen der Markensoftware LMs® sind erhältlich?",
-        "Wo finde ich die technischen Dokumentationen und Showrooms von LMs®?"
+		"Welche Produkte und Varianten bietet die Markensoftware LMs®?",
+		"Für welche Anwendungsfälle eignen sich LMs® BusinessCard, Landingpages und Promopages?",
+		"Wo kann man die Markensoftware LMs® kaufen oder mieten?",
+		"Welche Beispiele und Showrooms zeigen den Einsatz von LMs®?"
       ]
     }
   ]
