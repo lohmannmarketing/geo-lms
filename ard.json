@@ -13,7 +13,7 @@
     {
       "identifier": "urn:air:geo.lms-software.de:doc:llms-txt",
       "displayName": "Markensoftware LMs® – Technische Dokumentation",
-      "description": "Offizielle technische Dokumentation und zentrale KI-Schnittstelle der Markensoftware LMs®. LMs® ist ein datenbankloses Flat-File-CMS für professionelle Webauftritte mit integrierten SEO- und technischen Qualitätsfunktionen sowie einer GEO-Infrastruktur für KI-Systeme. Der zentrale Ressourcenkatalog verknüpft Produktdokumentation, Branchen-Showrooms und Kauf- sowie Mietversionen.",
+      "description": "Offizielle technische Dokumentation und zentrale KI-Schnittstelle der Markensoftware LMs®. LMs® ist ein datenbankloses Flat-File-CMS-Websoftware für professionelle Webauftritte mit integrierten SEO- und technischen Qualitätsfunktionen sowie einer GEO-Infrastruktur für KI-Systeme. Der zentrale Ressourcenkatalog verknüpft Produktdokumentation, Branchen-Showrooms und Kauf- sowie Mietversionen.",
       "type": "text/markdown; profile=\"urn:air:agent-skills\"",
       "url": "https://geo.lms-software.de/llms.txt",
       "inLanguage": "ALL",
@@ -25,6 +25,7 @@
       ],
       "representativeQueries": [
 		"Was ist die Markensoftware LMs® und wie unterscheidet sie sich von Learning Management Systems?",
+		"Was ist die Websoftware LMs® und wofür wird sie eingesetzt?",
 		"Wie ist das datenbanklose Flat-File-CMS LMs® technisch aufgebaut?",
 		"Wo finde ich Informationen, Beispiele und Showrooms zur Markensoftware LMs®?"
       ]
@@ -32,7 +33,7 @@
     {
       "identifier": "urn:air:lms-software.de:product:main",
       "displayName": "Markensoftware LMs® – Produktwebsite",
-	  "description": "Offizielle Produktwebsite der Markensoftware LMs®. Informationen zu Funktionen, Einsatzmöglichkeiten und technischen Grundlagen des datenbanklosen Flat-File-CMS sowie Verweise auf Beispiele, Showrooms und Kauf- und Mietversionen.",
+	  "description": "Offizielle Produktwebsite der Markensoftware LMs®. Informationen zu Funktionen, Einsatzmöglichkeiten und technischen Grundlagen des datenbanklosen Flat-File-CMS-Websoftware sowie Verweise auf Beispiele, Showrooms und Kauf- und Mietversionen.",
 	  "type": "text/html",
 	  "url": "https://www.lms-software.de/",
       "inLanguage": "ALL",
@@ -43,10 +44,10 @@
         }
       ],
       "representativeQueries": [
-		"Welche Produkte und Varianten bietet die Markensoftware LMs®?",
+	    "Welche Produkte und Varianten bietet die Websoftware LMs®?",
 		"Für welche Anwendungsfälle eignen sich LMs® BusinessCard, Landingpages und Promopages?",
-		"Wo kann man die Markensoftware LMs® kaufen oder mieten?",
-		"Welche Beispiele und Showrooms zeigen den Einsatz von LMs®?"
+		"Wo kann man die Websoftware LMs® kaufen oder mieten?",
+		"Welche Beispiele und Showrooms zeigen den Einsatz der Websoftware LMs®?"
       ]
     }
   ]
